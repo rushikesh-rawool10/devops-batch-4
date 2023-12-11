@@ -1,0 +1,2 @@
+git set url --add origin
+git set url -- delete origin
